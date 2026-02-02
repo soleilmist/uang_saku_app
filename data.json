@@ -1,0 +1,15 @@
+{
+  "saldo": 994000.0,
+  "transaksi": [
+    {
+      "tipe": "pemasukan",
+      "jumlah": 1000000.0,
+      "waktu": "2026-02-02T03:03:47.755284"
+    },
+    {
+      "tipe": "pengeluaran",
+      "jumlah": 6000.0,
+      "waktu": "2026-02-02T03:03:56.989705"
+    }
+  ]
+}
